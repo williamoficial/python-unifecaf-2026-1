@@ -153,16 +153,3 @@ output_path = "/mnt/data/README.md"
 pypandoc.convert_text(content, 'md',
 
 
-
-
-
-
-
-# William Oliveira
-
-💻 Back-end Developer em formação  
-☁️ Foco em AWS e APIs  
-🚀 Construindo projetos reais
-
-## 🛠 Tecnologias
-Python | Django | AWS | SQL
